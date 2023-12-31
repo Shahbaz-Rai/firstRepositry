@@ -1,1 +1,2 @@
-Hello, Wellcome to git tutorials
+Hello, Wellcome to git tutorials.
+we will learn git pull in this video.
